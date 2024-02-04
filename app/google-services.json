@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814285843585",
+    "project_id": "orchid-c23f6",
+    "storage_bucket": "orchid-c23f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814285843585:android:20408784f15dbafc2d7180",
+        "android_client_info": {
+          "package_name": "com.example.orchid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTEyxdTSjyTI4tcPE6T67Zmk790R_4Mmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
